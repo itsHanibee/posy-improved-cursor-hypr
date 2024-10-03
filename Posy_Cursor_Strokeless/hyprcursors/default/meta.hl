@@ -1,0 +1,24 @@
+resize_algorithm = none
+hotspot_x = 0.31
+hotspot_y = 0.19
+
+define_size = 32, default_000.png, 0
+define_size = 48, default_001.png, 0
+define_size = 64, default_002.png, 0
+define_size = 96, default_003.png, 0
+define_size = 128, default_004.png, 0
+
+define_override = 1081e37283d90000800003c07f3ef6bf
+define_override = 6407b0e94181790501fd1e167b474872
+define_override = arrow
+define_override = context-menu
+define_override = copy
+define_override = cursor
+define_override = dot_box_mask
+define_override = dotbox
+define_override = draped_box
+define_override = icon
+define_override = left_ptr
+define_override = plus
+define_override = right_ptr
+define_override = top_left_arrow

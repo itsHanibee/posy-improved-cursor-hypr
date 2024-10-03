@@ -1,0 +1,27 @@
+resize_algorithm = none
+hotspot_x = 0.47
+hotspot_y = 0.22
+
+define_size = 32, size_EW_000.png, 0
+define_size = 48, size_EW_001.png, 0
+define_size = 64, size_EW_002.png, 0
+define_size = 96, size_EW_003.png, 0
+define_size = 128, size_EW_004.png, 0
+
+define_override = 028006030e0e7ebffc7f7070c0600140
+define_override = 14fef782d02440884392942c11205230
+define_override = col-resize
+define_override = e-resize
+define_override = ew-resize
+define_override = h_double_arrow
+define_override = left_side
+define_override = left_tee
+define_override = right_side
+define_override = right_tee
+define_override = sb_h_double_arrow
+define_override = sb_left_arrow
+define_override = sb_right_arrow
+define_override = size-hor
+define_override = size_hor
+define_override = split_h
+define_override = w-resize

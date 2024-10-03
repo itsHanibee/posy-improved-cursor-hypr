@@ -1,0 +1,17 @@
+resize_algorithm = none
+hotspot_x = 0.31
+hotspot_y = 0.19
+
+define_size = 32, background_000.png, 0
+define_size = 48, background_001.png, 0
+define_size = 64, background_002.png, 0
+define_size = 96, background_003.png, 0
+define_size = 128, background_004.png, 0
+
+define_override = 00000000000000020006000e7e9ffc3f
+define_override = 08e8e1c95fe2fc01f976f1e063a24ccd
+define_override = 3ecb610c1bf2410f44200f48c40d3599
+define_override = aero_working
+define_override = half-busy
+define_override = left_ptr_watch
+define_override = progress

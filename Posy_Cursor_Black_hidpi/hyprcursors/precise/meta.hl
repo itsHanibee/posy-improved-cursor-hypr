@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.47
+hotspot_y = 0.47
+
+define_size = 32, precise_000.png, 0
+define_size = 48, precise_001.png, 0
+define_size = 64, precise_002.png, 0
+define_size = 96, precise_003.png, 0
+define_size = 128, precise_004.png, 0
+
+define_override = cell
+define_override = color-picker
+define_override = cross
+define_override = cross_reverse
+define_override = crosshair
+define_override = diamond_cross
+define_override = no-drop
+define_override = target
+define_override = tcross

@@ -1,0 +1,27 @@
+resize_algorithm = none
+hotspot_x = 0.19
+hotspot_y = 0.44
+
+define_size = 32, size_NS_000.png, 0
+define_size = 48, size_NS_001.png, 0
+define_size = 64, size_NS_002.png, 0
+define_size = 96, size_NS_003.png, 0
+define_size = 128, size_NS_004.png, 0
+
+define_override = 00008160000006810000408080010102
+define_override = 2870a09082c103050810ffdffffe0204
+define_override = bottom_side
+define_override = bottom_tee
+define_override = double_arrow
+define_override = n-resize
+define_override = ns-resize
+define_override = row-resize
+define_override = s-resize
+define_override = sb_down_arrow
+define_override = sb_v_double_arrow
+define_override = size-ver
+define_override = size_ver
+define_override = splt_v
+define_override = top_side
+define_override = top_tee
+define_override = v_double_arrow

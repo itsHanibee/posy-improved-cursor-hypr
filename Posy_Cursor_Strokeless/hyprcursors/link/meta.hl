@@ -1,0 +1,21 @@
+resize_algorithm = none
+hotspot_x = 0.31
+hotspot_y = 0.19
+
+define_size = 32, link_000.png, 0
+define_size = 48, link_001.png, 0
+define_size = 64, link_002.png, 0
+define_size = 96, link_003.png, 0
+define_size = 128, link_004.png, 0
+
+define_override = 3085a0e285430894940527032f8b26df
+define_override = 640fb0e74195791501fd1ed57b41487f
+define_override = alias
+define_override = closedhand
+define_override = dnd-link
+define_override = dnd-none
+define_override = fcf21c00b30f7e3f83fe0dfd12e71cff
+define_override = grab
+define_override = grabbing
+define_override = openhand
+define_override = pointing_hand

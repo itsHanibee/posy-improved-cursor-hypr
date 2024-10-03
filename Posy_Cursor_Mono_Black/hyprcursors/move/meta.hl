@@ -1,0 +1,15 @@
+resize_algorithm = none
+hotspot_x = 0.47
+hotspot_y = 0.47
+
+define_size = 32, move_000.png, 0
+define_size = 48, move_001.png, 0
+define_size = 64, move_002.png, 0
+define_size = 96, move_003.png, 0
+define_size = 128, move_004.png, 0
+
+define_override = all-scroll
+define_override = dnd-move
+define_override = fleur
+define_override = pointer-move
+define_override = size_all

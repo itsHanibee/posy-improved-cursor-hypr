@@ -1,0 +1,10 @@
+resize_algorithm = none
+hotspot_x = 0.97
+hotspot_y = 0.00
+
+define_size = 32, right_ptr_000.png, 0
+define_size = 48, right_ptr_001.png, 0
+define_size = 64, right_ptr_002.png, 0
+define_size = 96, right_ptr_003.png, 0
+define_size = 128, right_ptr_004.png, 0
+

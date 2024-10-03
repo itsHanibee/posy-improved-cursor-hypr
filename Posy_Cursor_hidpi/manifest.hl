@@ -1,0 +1,4 @@
+name = posys-cursor-hidpi
+description = Posy's Cursors with HiDPI
+version = 0.1
+cursors_directory = hyprcursors

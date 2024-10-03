@@ -1,0 +1,20 @@
+resize_algorithm = none
+hotspot_x = 0.31
+hotspot_y = 0.31
+
+define_size = 32, size_NeSw_000.png, 0
+define_size = 48, size_NeSw_001.png, 0
+define_size = 64, size_NeSw_002.png, 0
+define_size = 96, size_NeSw_003.png, 0
+define_size = 128, size_NeSw_004.png, 0
+
+define_override = bd_double_arrow
+define_override = bottom_left_corner
+define_override = c7088f0f3e6c8088236ef8e1e3e70000
+define_override = ll_angle
+define_override = ne-resize
+define_override = nesw-resize
+define_override = size_bdiag
+define_override = sw-resize
+define_override = top_right_corner
+define_override = ur_angle

@@ -1,0 +1,13 @@
+resize_algorithm = none
+hotspot_x = 0.22
+hotspot_y = 0.06
+
+define_size = 32, alt_000.png, 0
+define_size = 48, alt_001.png, 0
+define_size = 64, alt_002.png, 0
+define_size = 96, alt_003.png, 0
+define_size = 128, alt_004.png, 0
+
+define_override = center_ptr
+define_override = sb_up_arrow
+define_override = up-arrow

@@ -1,0 +1,4 @@
+name = posys-cursor
+description = Standard Posy's Cursors
+version = 0.1
+cursors_directory = hyprcursors

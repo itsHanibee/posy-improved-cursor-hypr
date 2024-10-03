@@ -1,0 +1,14 @@
+resize_algorithm = none
+hotspot_x = 0.03
+hotspot_y = 0.03
+
+define_size = 32, pen_000.png, 0
+define_size = 48, pen_001.png, 0
+define_size = 64, pen_002.png, 0
+define_size = 96, pen_003.png, 0
+define_size = 128, pen_004.png, 0
+
+define_override = draft
+define_override = draft_large
+define_override = draft_small
+define_override = pencil

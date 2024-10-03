@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.47
+hotspot_y = 0.47
+
+define_size = 32, forbidden_000.png, 0
+define_size = 48, forbidden_001.png, 0
+define_size = 64, forbidden_002.png, 0
+define_size = 96, forbidden_003.png, 0
+define_size = 128, forbidden_004.png, 0
+
+define_override = 03b6e0fcb3499374a867c041f52298f0
+define_override = X_cursor
+define_override = circle
+define_override = crossed_circle
+define_override = dnd_no_drop
+define_override = not-allowed
+define_override = pirate
+define_override = unavailable
+define_override = x-cursor
